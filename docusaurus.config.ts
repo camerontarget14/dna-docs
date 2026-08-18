@@ -108,18 +108,18 @@ const config: Config = {
       },
 
       items: [
-        {to: '/about', label: 'About', position: 'left'},
+        {to: '/about', label: 'About', position: 'right'},
         {
           type: 'docSidebar',
           sidebarId: 'frontendSidebar',
-          position: 'left',
+          position: 'right',
           label: 'Frontend',
         },
         {
           type: 'docSidebar',
           docsPluginId: 'api',
           sidebarId: 'openApiSidebar',
-          position: 'left',
+          position: 'right',
           label: 'Backend API',
         },
         {
@@ -172,7 +172,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Cameron Target. Apache-2.0 licensed. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Dailies Notes Assistant: A Project of The Academy Software Foundation`,
     },
     prism: {
       theme: prismThemes.github,
