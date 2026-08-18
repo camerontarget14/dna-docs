@@ -3,6 +3,8 @@
 Documentation site for [DNA](https://github.com/AcademySoftwareFoundation/dna)
 (Dailies Note Assistant), an Academy Software Foundation project.
 
+<img width="1043" height="908" alt="Screenshot 2026-08-18 at 12 55 36 AM" src="https://github.com/user-attachments/assets/88ec6cc4-6ba8-4654-9243-ab907e290f38" />
+
 Built with [Docusaurus](https://docusaurus.io/). It serves two independent
 documentation sections:
 
